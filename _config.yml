@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Maria Suella Rodrigues"
-  avatar           : "msr.jpg"
+  avatar           : "msr.png"
   bio              : " Economist"
   location         : "Glasgow, UK"
-  employer         :
+  employer         : "University of Strathclyde"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
