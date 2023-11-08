@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 I am an economist, currently working as a research associate at the University of Strathclyde invloved in multiple projects.
-My research interests are the areas of applied microeconomics more specifically environmental, agricultural, health and behavioural economics.
+My research interests are in the areas of applied microeconomics more specifically environmental, agricultural, health and behavioural economics.
