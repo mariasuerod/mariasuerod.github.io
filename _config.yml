@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Maria Suella Rodrigues"
-  avatar           : "profile_1.png"
+  avatar           : /images/profile_1.png
+
   bio              : "Economist"
   location         : "Glasgow, UK"
   employer         : "University of Strathclyde"
