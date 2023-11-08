@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Maria's Homepage"
 title_separator          : "-"
-name                     : &name "Maria Suella Rodrigues"
+name                     : &name "Maria Rodrigues"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maria Suella Rodrigues"
   avatar           : "msr.png"
-  bio              : " Economist"
+  bio              : "Economist"
   location         : "Glasgow, UK"
   employer         : "University of Strathclyde"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
