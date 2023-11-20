@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Maria Suella Rodrigues"
-  avatar           : "<a href='https://postimg.cc/JtSNWXmq' target='_blank'><img src='https://i.postimg.cc/JtSNWXmq/profile.png' border='0' alt='profile'/></a>"
+  avatar           : profile.png
   location         : "Glasgow, UK"
   employer         : "University of Strathclyde"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
