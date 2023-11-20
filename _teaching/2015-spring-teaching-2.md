@@ -1,14 +1,19 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Tutorials and labs"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "University Of Glasgow, Adam Smith Business School"
+date: 2017-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+• Economics 1B (1st year Macroeconomics, Undergraduate module)
+• Economics 2A: Mathematics (2nd year Microeconomics, Undergraduate module)
+• Economics 2B: Statistics (2nd year Macroeconomics, Undergraduate module)
+• Econometrics (Undergraduate (Hons) module)
+• Behavioural Economics ( Undergraduate (Hons) module)
+• Econometric methods for Business ( Postgraduate module
 
 Heading 1
 ======
