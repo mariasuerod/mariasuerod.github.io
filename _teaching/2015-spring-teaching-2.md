@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorials and labs"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University Of Glasgow, Adam Smith Business School"
-date: 2017-01-01
+date: 2017 - 2021
 location: "City, Country"
 ---
 
