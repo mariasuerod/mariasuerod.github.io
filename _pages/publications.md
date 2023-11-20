@@ -8,8 +8,7 @@ author_profile: true
 
 * Risky returns, infection levels and their role in shaping producer preferences for farm animal
 health and welfare in the UK. [Draft coming soon]
-<br>
-<br>
+
 * Resource Allocation: A general decision-making framework of woodland planting in the UK. [Draft coming soon]
 
 * Disentangling farm animal health from farm animal welfare and information asymmetry: A case study on UK consumer preference
