@@ -11,7 +11,7 @@ health and welfare in the UK. [Draft coming soon]
 
 * Resource Allocation: A general decision-making framework of woodland planting in the UK. [Draft coming soon]
 
-* Disentangling farm animal health from farm animal welfare and information asymmetry: A case study on UK consumer preference
+* Disentangling farm animal health from farm animal welfare and information asymmetry: A case study on UK consumer preference.
   An older version is published as a conference paper and can be found [here](https://econpapers.repec.org/paper/agsaesc21/312057.htm)
   
 
