@@ -3,8 +3,8 @@ title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Tutorials and labs"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University Of Glasgow, Adam Smith Business School, 2017 - 2022"
-date: 00-00-00
+venue: "University Of Glasgow, Adam Smith Business School, 2017"
+date: 2021-01-01
 location: "City, Country"
 ---
 
