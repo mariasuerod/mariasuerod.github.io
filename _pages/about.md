@@ -8,5 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist, currently working as a research associate at the University of Strathclyde invloved in multiple projects.
-My research interests are in the areas of applied microeconomics more specifically environmental, agricultural, health and behavioural economics.
+I am an economist, currently working as a research associate at the [University of Strathclyde](https://www.strath.ac.uk/) Department of Mathematics and Statistics. My areas of expertise include economic valuation methods in environment and agriculture (choice modelling), bio-economic modelling, solving constrained optimization problems (using portfolio approach) in the context of forest economics and disease management. 
+<br>
+<br>
+## Research interests
+<br>
+My research interests are in the areas of applied microeconomics more specifically health, environmental, agricultural, and behavioural economics.
