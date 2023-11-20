@@ -3,7 +3,7 @@ title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Tutorials and labs"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University Of Glasgow, Adam Smith Business School"
+venue: "University Of Glasgow, Adam Smith Business School, 2017 - 2022"
 date: 2017/01/01 - 2021/01/01
 location: "City, Country"
 ---
@@ -18,5 +18,5 @@ location: "City, Country"
 <br>
 • Behavioural Economics ( Undergraduate (Hons) module)
 <br>
-• Econometric methods for Business ( Postgraduate module
+• Econometric methods for Business ( Postgraduate module)
 
