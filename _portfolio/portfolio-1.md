@@ -5,4 +5,6 @@ benefits from UK treescapes in the rural-urban continuum "
 collection: portfolio
 ---
 
-<a href= "https://www.uktreescapes.org/" > UK Treescapes </a>
+
+This project is part of the <a href= "https://www.uktreescapes.org/" > UK Treescapes </a> programme.
+
