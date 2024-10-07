@@ -14,7 +14,7 @@ I am an economist currently working as a Research Fellow in Health Economics at 
 
 Previously, I worked at [University of Strathclyde](https://www.strath.ac.uk/staff/rodriguesmariamiss/), Department of Mathematics and Statistics as a Research Associate. My expertise include economic valuation methods in environment and agriculture (Discrete Choice modelling), bio-economic modelling, solving constrained optimization problems (using portfolio approach) in the context of forest economics and disease management. I have extensive experience collaborating on various [projects](https://mariasuerod.github.io/portfolio/) in interdisciplinary teams. I also have extensive experience [teaching](https://mariasuerod.github.io/teaching/) in economics and an associate fellowship in HE.
 
-Currently, my research focuses on pharmacogenomics where I explore economics of pharmacogenomic panel tests. 
+Currently, my research focuses on pharmacogenomics where I explore economics= modellelling of pharmacogenomic panel tests. 
 <br>
 
 ## Research interests
