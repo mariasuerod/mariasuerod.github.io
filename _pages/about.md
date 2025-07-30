@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am Maria!
 <br>
-I am an economist currently working as a Research Fellow in Health Economics at the University of Manchester. I hold an advisory role in methodology within the NIHR Research Support Service (RSS) Hub, and I also serve as a Centre Lead, representing the Manchester Centre for Health Economics in the North West Health Economics Group.
+I am a Health Economist currently working as a Research Fellow at the Manchester Centre for Health economics at the University of Manchester. I hold an advisory role in methodology within the NIHR Research Support Service (RSS) Hub, and I also serve as a Centre Lead, representing the Manchester Centre for Health Economics in the North West Health Economics Group.
 
 Currently, my research focuses on pharmacogenomics and more specifically on the cost-effectiveness analysis and microcosting of pharmacogenomic panel testing.
 <br>
